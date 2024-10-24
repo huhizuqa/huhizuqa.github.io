@@ -1,0 +1,24 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://huhizuqa.github.io/sitemap/sitemap_index.huhizuqa
+Sitemap: https://huhizuqa.github.io/sGE/sitemap_index.huhizuqa
+Sitemap: https://huhizuqa.github.io/cGJ/sitemap_index.huhizuqa
+Sitemap: https://huhizuqa.github.io/TaW/sitemap_index.huhizuqa
+Sitemap: https://huhizuqa.github.io/KmV/sitemap_index.huhizuqa
+Sitemap: https://huhizuqa.github.io/Lbk/sitemap_index.huhizuqa
+Sitemap: https://huhizuqa.github.io/taU/sitemap_index.huhizuqa
+Sitemap: https://huhizuqa.github.io/QRM/sitemap_index.huhizuqa
+Sitemap: https://huhizuqa.github.io/bQO/sitemap_index.huhizuqa
+Sitemap: https://huhizuqa.github.io/Atg/sitemap_index.huhizuqa
+Sitemap: https://huhizuqa.github.io/rRk/sitemap_index.huhizuqa
+Sitemap: https://huhizuqa.github.io/TeE/sitemap_index.huhizuqa
+Sitemap: https://huhizuqa.github.io/Xpe/sitemap_index.huhizuqa
+Sitemap: https://huhizuqa.github.io/Dcf/sitemap_index.huhizuqa
+Sitemap: https://huhizuqa.github.io/HEG/sitemap_index.huhizuqa
+Sitemap: https://huhizuqa.github.io/Urw/sitemap_index.huhizuqa
+Sitemap: https://huhizuqa.github.io/FQw/sitemap_index.huhizuqa
+Sitemap: https://huhizuqa.github.io/BOo/sitemap_index.huhizuqa
+Sitemap: https://huhizuqa.github.io/rfm/sitemap_index.huhizuqa
+Sitemap: https://huhizuqa.github.io/sYU/sitemap_index.huhizuqa
+Sitemap: https://huhizuqa.github.io/mRl/sitemap_index.huhizuqa
